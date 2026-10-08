@@ -1,18 +1,3 @@
-"""
-config.py — конфигурация проекта.
-
-КАК ПОЛУЧИТЬ BOT_TOKEN:
-1. Откройте Telegram и найдите бота @BotFather.
-2. Отправьте команду /newbot и следуйте инструкциям (укажите имя и username
-   бота; username должен заканчиваться на "bot", например my_auth_helper_bot).
-3. BotFather пришлёт токен вида: 123456789:AAExxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-4. Вставьте этот токен в переменную BOT_TOKEN ниже.
-5. Впишите username вашего бота (без @) в переменную BOT_USERNAME —
-   он используется только для текста подсказки в GUI.
-
-НИКОГДА не публикуйте токен бота (например, в открытом репозитории на GitHub) —
-любой, у кого есть токен, может полностью управлять вашим ботом.
-"""
-
-BOT_TOKEN = "ВСТАВЬТЕ_СЮДА_ТОКЕН_ОТ_BOTFATHER"
-BOT_USERNAME = "YourBotName"  # без символа @, только для отображения в GUI
+# Не публикуйте реальный токен Telegram-бота в GitHub.
+BOT_TOKEN = "8905684888:AAHIY52_496gjjAV755eM_b2ymcMpzL923A"
+BOT_USERNAME = "TG2FALabBot"
